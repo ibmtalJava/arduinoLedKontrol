@@ -1,7 +1,7 @@
 using System.IO.Ports;
 namespace arduinoLedKontrol
 {
-    public partial class Form1 : Form
+     public partial class Form1 : Form
     {
         public Form1()
         {
